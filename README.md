@@ -8,6 +8,6 @@ https://www.youtube.com/watch?v=cQ1nDq6YIlg
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/cQ1nDq6YIlg/0.jpg)](https://www.youtube.com/watch?v=cQ1nDq6YIlg)
 
-### Testing
+### Testing and Statistics
 
 ### Diagram
