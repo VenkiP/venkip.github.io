@@ -1,5 +1,7 @@
 ## Welcome to FaceTag
 
+FaceTag is a program that allows for admins to track users throughout a building's network of security cameras. The program records users' movements across multiple camera streams to provide real time locations of personel.
+
 You can use the [editor on GitHub](https://github.com/VenkiP/venkip.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
