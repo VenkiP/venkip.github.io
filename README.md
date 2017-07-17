@@ -40,6 +40,8 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ### Demo Video
 
+https://www.youtube.com/watch?v=cQ1nDq6YIlg
+
 ### Testing
 
 ### Diagram
