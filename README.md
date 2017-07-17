@@ -42,6 +42,8 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 https://www.youtube.com/watch?v=cQ1nDq6YIlg
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/cQ1nDq6YIlg/0.jpg)](https://www.youtube.com/watch?v=cQ1nDq6YIlg)
+
 ### Testing
 
 ### Diagram
