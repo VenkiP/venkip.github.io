@@ -12,9 +12,9 @@ https://www.youtube.com/watch?v=cQ1nDq6YIlg
 
 Time to find and identify 1 face in frame-
 
-With GPU: 1.8474 seconds
+-With GPU: 1.8474 seconds
 
-Without GPU: 1.6474 seconds
+-Without GPU: 1.6474 seconds
 
 Program is able to process X streams, looking for faces every Y frames
 
