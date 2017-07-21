@@ -18,4 +18,9 @@ Time to find and identify 1 face in frame-
 
 Program is able to process X streams, looking for faces every Y frames
 
+![Recognition Accuracy](http://i.imgur.com/ccrLZpF.png "Recognition Accuracy")
+
 ### Diagram
+##### What's Inside?
+
+![System Diagram](http://i.imgur.com/cevOWAq.png "System Diagram")
