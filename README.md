@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=cQ1nDq6YIlg
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/cQ1nDq6YIlg/0.jpg)](https://www.youtube.com/watch?v=cQ1nDq6YIlg)
 
-### Testing and Statistics
+## Testing and Statistics
 
 Time to find and identify 1 face in frame-
 
@@ -22,7 +22,7 @@ Program is able to process X streams, looking for faces every Y frames
 
 ![System Diagram](http://i.imgur.com/cevOWAq.png "System Diagram")
 
-### Diagram
-##### What's Inside?
+## System Overview
+### What's Inside?
 
 ![System Diagram](http://i.imgur.com/cevOWAq.png "System Diagram")
