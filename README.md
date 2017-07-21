@@ -25,4 +25,4 @@ Program is able to process X streams, looking for faces every Y frames
 ## System Overview
 ### What's Inside?
 
-![System Diagram](http://i.imgur.com/cevOWAq.png "System Diagram")
+![System Diagram](https://raw.githubusercontent.com/BrandonJoffe/home_surveillance/revert-29-master/system/testing/implementation/designOverview-2.png "System Diagram")
