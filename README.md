@@ -20,6 +20,8 @@ Program is able to process X streams, looking for faces every Y frames
 
 ![Recognition Accuracy](http://i.imgur.com/ccrLZpF.png "Recognition Accuracy")
 
+![System Diagram](http://i.imgur.com/cevOWAq.png "System Diagram")
+
 ### Diagram
 ##### What's Inside?
 
