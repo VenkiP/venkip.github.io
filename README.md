@@ -29,4 +29,4 @@ Program is able to process X streams, looking for faces every Y frames
 
 The core FaceTag.AI program is only able to process a single video stream at a time. This means that in order to view all the streams in a camera, the main command program creates AWS instances for each camera which send the recognized data to the central MySQL database. This database is what is displayed on the UI home page.
 
-![System Diagram](https://raw.githubusercontent.com/BrandonJoffe/home_surveillance/revert-29-master/system/testing/implementation/designOverview-2.png "System Diagram")
+![System Diagram](http://i.imgur.com/lRiL8RD.jpg "System Diagram")
