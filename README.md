@@ -1,6 +1,6 @@
 ## Welcome to FaceTag.AI
 
->FaceTag is a program that allows for admins to track users throughout a building's network of security cameras. The program records users' movements across multiple camera streams to provide real time locations of personel. The program is also able to be used with singular cameras to identify people at a check-in or ticket desk.
+FaceTag is a program that allows for admins to track users throughout a building's network of security cameras. The program records users' movements across multiple camera streams to provide real time locations of personel. The program is also able to be used with singular cameras to identify people at a check-in or ticket desk.
 
 ### Demo Video
 
