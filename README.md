@@ -8,7 +8,11 @@ https://www.youtube.com/watch?v=cQ1nDq6YIlg
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/cQ1nDq6YIlg/0.jpg)](https://www.youtube.com/watch?v=cQ1nDq6YIlg)
 
-## Testing and Statistics
+## Recognition Accuracy
+
+![Recognition Accuracy](http://i.imgur.com/ccrLZpF.png "Recognition Accuracy")
+
+## System Processing Capability
 
 Time to find and identify 1 face in frame-
 
@@ -18,11 +22,11 @@ Time to find and identify 1 face in frame-
 
 Program is able to process X streams, looking for faces every Y frames
 
-![Recognition Accuracy](http://i.imgur.com/ccrLZpF.png "Recognition Accuracy")
-
 ![System Diagram](http://i.imgur.com/cevOWAq.png "System Diagram")
 
 ## System Overview
 ### What's Inside?
+
+The core FaceTag.AI program is only able to process a single video stream at a time. This means that in order to view all the streams in a camera, the main command program creates AWS instances for each camera which send the recognized data to the central MySQL database. This database is what is displayed on the UI home page.
 
 ![System Diagram](https://raw.githubusercontent.com/BrandonJoffe/home_surveillance/revert-29-master/system/testing/implementation/designOverview-2.png "System Diagram")
