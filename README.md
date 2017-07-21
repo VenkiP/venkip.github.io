@@ -22,7 +22,7 @@ Time to find and identify 1 face in frame-
 
 Program is able to process X streams, looking for faces every Y frames
 
-![System Diagram](http://i.imgur.com/cevOWAq.png "System Diagram")
+![System Speed](http://i.imgur.com/mGNXlLk.jpgg "System Speed")
 
 ## System Overview
 ### What's Inside?
